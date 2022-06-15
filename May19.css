@@ -1,0 +1,24 @@
+body{
+    background-color:cadetblue;
+}
+.a{
+ width: 75%;
+  margin: auto;
+ margin-bottom: 10px;
+}
+ .b{
+     width:70%;
+     margin: auto;
+ }
+ .c{
+     align-content: center;
+ }
+.small{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.mid{
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
